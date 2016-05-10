@@ -1,1 +1,2 @@
 Hola mundo
+El Hello World proyecto es una antigua tradición en la programación de computadoras. Es un ejercicio simple que podrá iniciar cuando se aprende algo nuevo. Vamos a empezar con GitHub!
